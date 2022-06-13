@@ -1,4 +1,4 @@
-module inet.af/tcpproxy
+module go.universe.tf/tcpproxy
 
 go 1.16
 
